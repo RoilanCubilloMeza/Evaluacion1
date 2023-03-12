@@ -1,10 +1,13 @@
-# RWDGridForm
-Simple Responsive web design using grid css
 
-## Mobile First design
-When designing websites, always it is easier to begin with a mobile version, but everything has an exception rule.
-![](img/mobile-view.PNG)
 
-## Adjust for large pages
-With CSS, we can change every detail and display the website in a completely different way on mobile.
-![](img/large-view.PNG)
+## Diseño 1
+
+![](img/DISE%C3%91O1.png)
+
+## Diseño 2
+
+![](img/DISE%C3%91O2.png)
+
+## Diseño 3
+
+![](img/DISE%C3%91O3.png)
