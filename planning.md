@@ -6,3 +6,5 @@
 - [ X ] Add design in large views
 - [ X ] Add more changes in colors in a large views
 - [  ] Publish the site and improve the readme
+
+--This part not responding to this project, don't copy and paste
